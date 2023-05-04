@@ -49,6 +49,7 @@ header {
     justify-content: space-between;
 
     margin: 2.5rem 0;
+    
 }
 
 header h1 {
@@ -67,6 +68,7 @@ header h1 {
     border: 1px solid #CCC;
     border-radius: .4rem 0 0 .4rem;
     padding: 0 .8rem;
+    outline: none;
 }
 
 .search button {
@@ -148,4 +150,5 @@ table {
         background: none;
         border: none;
         color: red;
+        cursor: pointer;
      }
